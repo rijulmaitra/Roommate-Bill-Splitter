@@ -15,6 +15,7 @@ To deploy this project run
 
     *for Windows*
     - python todo_gui.py
+      
     *for MacOs*
     - python3 todo_gui.py
 ## 🧮 How It Works
