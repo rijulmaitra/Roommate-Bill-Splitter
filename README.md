@@ -14,10 +14,10 @@ To deploy this project run
 2. **Run this command.**
 
     *for Windows*
-    - python todo_gui.py
+    - python rent.py
       
     *for MacOs*
-    - python3 todo_gui.py
+    - python3 rent.py
 ## 🧮 How It Works
 
 You enter:
